@@ -2,3 +2,5 @@ This section of code is purposed to create heatmap based on the given keywords (
 
 We first create url corresponding to different keywords combinations and get access to the "total result" information, 
 which is stored in the TITLE section of the htm. 
+
+The heatmap drawing is achieved by using matlab. The code is rather trivial and not included in the folder. 

@@ -9,7 +9,4 @@ and directly.
 
 The heatmap drawing is achieved by using matlab. The code is rather trivial and not included in the folder. 
 
-The main code is find_count.py. 
-The input file is keywords.csv. 
-The output file (heatmap data) is keywords_combination_list.csv. 
-The screenshots of heatmap are stored in heatmap_photos folder. 
+The main code is find_count.py. The input file is keywords.csv. The output file (heatmap data) is keywords_combination_list.csv. The screenshots of heatmap are stored in heatmap_photos folder. 

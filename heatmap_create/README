@@ -1,2 +1,4 @@
 This section of code is purposed to create heatmap based on the given keywords (different diseases and biomarkers). 
-We first create url corresponding to different keywords combinations and get access to the "total result" information, which is stored in the TITLE section of the htm. 
+
+We first create url corresponding to different keywords combinations and get access to the "total result" information, 
+which is stored in the TITLE section of the htm. 

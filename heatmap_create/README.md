@@ -1,4 +1,5 @@
-#Create Heatmap Section
+Create Heatmap Section
+====
 
 This section of code is purposed to create heatmap based on the given keywords (different diseases and biomarkers). 
 

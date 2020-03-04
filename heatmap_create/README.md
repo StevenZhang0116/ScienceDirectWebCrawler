@@ -1,3 +1,5 @@
+#Create Heatmap Section
+
 This section of code is purposed to create heatmap based on the given keywords (different diseases and biomarkers). 
 
 We first create url corresponding to different keywords combinations and then get access to the "total result" information, 

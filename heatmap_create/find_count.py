@@ -36,6 +36,7 @@ if __name__ == "__main__":
 
 	total_list = []
 	
+	# store the output into the csv file
 	source = "/Users/stevenzhang/Desktop/sciencedirect/heatmap_data.xlsx"
 	work = pd.read_excel(source)
 	for column in work.columns:
@@ -43,7 +44,9 @@ if __name__ == "__main__":
 
 	work = work.set_index("index")
 	work.index.name = "index_name"
-
+	
+	# since the whole process of downloading is costly of time, use try & except to eliminate the potential outliers that
+	# may interrupt the program processing. Dealing with these outliers afterwards. 
 	for single_value in total_list:
 		try: 
 			work.loc[[single_value[2]], [single_value[1]]] = single_value[0]

@@ -2,7 +2,8 @@ import pandas as pd
 import math
 import numpy as np
 #import urllib2
-# This code is purposed to generate keyword combinations based the given csv file and store the output in a specific csv. 
+# This code is purposed to generate keyword combinations based the given csv file and 
+# store the output in a keywords_combination_list.csv. 
 
 #------------------
 #

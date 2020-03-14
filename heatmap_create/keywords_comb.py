@@ -2,7 +2,7 @@ import pandas as pd
 import math
 import numpy as np
 #import urllib2
-# This code is purposed to generate keyword combinations based the given csv file
+# This code is purposed to generate keyword combinations based the given csv file and store the output in a specific csv. 
 
 #------------------
 #
@@ -55,14 +55,14 @@ class searchUrlBuilder:
 		cname=cols[idx]
 		col=df[cname].copy()
 		col.dropna(inplace=True)
-		cvals=col.tolist()
-		# print(cvals)
+		col_vals=col.tolist()
+		# print(col_vals)
 
 		nidx=idx+1
 
-		for cval in cvals:
+		for col_val in col_vals:
 			ncas=cas.copy()
-			ncas.append(cval)
+			ncas.append(col_val)
 			if nidx<len(cols):
 				self.build_url(ncas,df,cols,nidx)
 			else:
@@ -110,28 +110,3 @@ lst=builder.build()
 with open("/Users/stevenzhang/Desktop/sciencedirect/keywords_combination_list.csv", "wt") as f:
 	for i in lst:
 		print(i, file = f)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

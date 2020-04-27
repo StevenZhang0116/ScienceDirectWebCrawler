@@ -1,0 +1,118 @@
+
+Every "explain" should be deleted before actual implement
+
+---
+---
+alter table ArticleInformation add column calc_flag int default 0
+;
+
+---
+---
+alter table ArticleInformation add index idx_ai_1 (t_doi,t_keyword1,t_keyword2)
+;
+
+---
+---
+alter table ArticleInformation add index idx_ai_2 (t_url)
+;
+
+---
+---
+(explain)  
+select * from ArticleInformation t where t_id in (
+select min(t_id) from ArticleInformation 
+where t_doi <> "CANNOT GET ACCESS"
+group by t_doi,t_keyword1,t_keyword2 having count(*)>1
+)
+;
+
+---
+---
+explain
+update ArticleInformation set calc_flag=1 where t_id in (
+select t.tid from (
+select min(t_id) as tid from ArticleInformation 
+where t_doi <> "CANNOT GET ACCESS"
+group by t_doi,t_keyword1,t_keyword2 having count(*)>1
+) t
+)
+;
+
+---
+--- 
+explain
+update ArticleInformation set calc_flag=2 where t_id in (
+select t.tid from (
+select min(t_id) as tid from ArticleInformation 
+where t_doi <> "CANNOT GET ACCESS"
+group by t_doi,t_keyword1,t_keyword2 having count(*)=1
+) t
+)
+;
+
+
+---
+---
+explain
+select * from ArticleInformation t where t_id in (
+select min(t_id) from ArticleInformation where t_doi=''
+group by t_url having count(*)>1
+)
+;
+
+---
+--- 
+explain
+update ArticleInformation set calc_flag=3
+where t_id in (
+select t.tid from (
+select min(t_id) as tid from ArticleInformation where t_doi="CANNOT GET ACCESS"
+group by t_url having count(*)>1
+) t
+)
+;
+
+---
+---
+explain
+update ArticleInformation set calc_flag=4
+where t_id in (
+select t.tid from (
+select min(t_id) as tid from ArticleInformation where t_doi="CANNOT GET ACCESS"
+group by t_url having count(*)=1
+) t
+)
+;
+
+---
+---
+select calc_flag,count(*) from ArticleInformation
+group by calc_flag
+;
+
+
+／**
+---
+---
+drop index idx_ai_1 on ArticleInformation
+;
+**／
+
+／**
+---
+---
+create table PolishedArticleInformation
+select * from ArticleInformation t where t_id in (
+select min(t_id) from ArticleInformation 
+where t_doi <> ''
+group by t_doi,t_keyword1,t_keyword2 having count(*)>1
+)
+;
+*／
+
+
+
+
+
+
+

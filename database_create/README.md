@@ -10,4 +10,6 @@ I execute db.commit() (line 47) after adding each data to improve the security b
 
 The sql.txt file contains the SQL codes to check if there are duplicated data in the table. Each code will take several minutes for average and should be executed consecutively and separately. 
 
+You may find the db file in https://drive.google.com/open?id=1rhSR3rol-j7cQZzY9caSCnJY5vf2PjOn with approximately 8 millions data and 3GB large. You may find more information about transforming MySQL to SqLite3 in https://github.com/dumblob/mysql2sqlite.  
+
 

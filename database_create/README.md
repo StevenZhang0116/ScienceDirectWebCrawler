@@ -1,1 +1,1 @@
-
+The find_name_url function in download_main.py file is used to extract information from the downloaded script_data-well-format.json file (prepared in download_pdf section) and store them into different list (by url). 

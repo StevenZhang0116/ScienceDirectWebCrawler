@@ -1,4 +1,4 @@
-# sciencedirect_webcrawler
+# Use Python to investigate the ScienceDirect database
 
 This folder of codes is crafted by Zihan Zhang for his lab internship at McDevitt Research Group, NYU College of Dentistry. 
 The purpose is to get access information from ScienceDirect database in using web crawler. The codes are primary python-based  and a few matlab and SQL involved. 

@@ -10,4 +10,4 @@ The heatmap_create section is used to generate visual presentation of the total 
 The download_pdf section is used to download all pdfs relevant to this keyword combinations and store them into different folders. 
 The database_create section is used to extract important information related to each article, including related keywords, DOI, authors, published date etc., and store them into the MySQL database. 
 
-Notice that the codes in each folder are more or less duplicated to each other. That is for readers' convenience to treat them as seperate projects for future reference. 
+Notice that the codes in each folder are more or less similar to each other. That is for readers' convenience to treat them as seperate projects for future reference. 

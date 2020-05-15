@@ -10,3 +10,4 @@ Here are some noteworthy tips that users should consider while they are implemen
 4. Generally, the downloading speed is average 1 second per file. 
 5. All I/O are written in full paths. The user may keep in mind and revise them to relative paths in cases of needed. 
 6. All codes should be stored in the same folder before implementing. 
+7. While collecting all downloadable URLs, we could also collect all hidden information about the articles (embedded in the website) and save it in script_data-well-format.json for future reference. 

@@ -1,0 +1,1362 @@
+{
+   "config": {
+      "features": {
+         "showSubscribedFacet": false,
+         "trackAccessType": false,
+         "showOnlyDownloadPdf": true
+      },
+      "searchAlerts": {
+         "enableDailyAlerts": false
+      },
+      "pages": {
+         "login": "/user/login",
+         "browse": "/browse/journals-and-books"
+      },
+      "env": {
+         "buildNumber": "0.0.1-1306",
+         "name": "prod",
+         "aws": {
+            "region": "us-east-1"
+         }
+      },
+      "cdnAssetsHost": "https://sdfestaticassets-us-east-1.sciencedirectassets.com"
+   },
+   "search": {
+      "isLoading": false,
+      "isCompleted": true,
+      "query": {
+         "qs": " \"Abdominal injury\" AND \"alpha-fetoprotein\""
+      },
+      "urlPathname": "/search/advanced",
+      "hash": "",
+      "error": null,
+      "searchResults": [
+         {
+            "abstTypes": [
+               "author"
+            ],
+            "authors": [
+               {
+                  "order": 0,
+                  "name": "Chin-Fan Chen"
+               },
+               {
+                  "order": 1,
+                  "name": "Wee-Yeen Wong"
+               },
+               {
+                  "order": 2,
+                  "name": "Chieh-Han Chuang"
+               },
+               {
+                  "order": 3,
+                  "name": "Yung-Sung Yeh"
+               },
+               {
+                  "order": 5,
+                  "name": "Jaw-Yuan Wang"
+               }
+            ],
+            "cid": 280663,
+            "contentType": "JL",
+            "documentSubType": "sco",
+            "doi": "10.1016/j.gmbhs.2012.04.011",
+            "openAccess": true,
+            "openArchive": true,
+            "itemStage": "S300",
+            "pages": {
+               "first": "76",
+               "last": "78"
+            },
+            "pdf": {
+               "filename": "1-s2.0-S2211425412000192-main.pdf",
+               "getAccessLink": "/science/article/pii/S2211425412000192",
+               "downloadLink": "/science/article/pii/S2211425412000192/pdfft?md5=d0c9cd7d4c7d439d508e0d433fc04184&pid=1-s2.0-S2211425412000192-main.pdf"
+            },
+            "pii": "S2211425412000192",
+            "publicationDate": "2012-06-30",
+            "publicationDateDisplay": "March\u2013June 2012",
+            "sourceTitle": "Genomic Medicine, Biomarkers, and Health Sciences",
+            "sortDate": "2012-03-01T00:00:00.000Z",
+            "title": "Ruptured ovarian yolk sac tumor combined with hemoperitoneum in a young girl with abdominal blunt injury",
+            "volumeIssue": "Volume 4, Issues 1\u20132",
+            "articleType": "SCO",
+            "issn": "22114254",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/22114254",
+            "link": "/science/article/pii/S2211425412000192",
+            "articleTypeDisplayName": "Short communication"
+         },
+         {
+            "cid": 271910,
+            "contentType": "JL",
+            "documentSubType": "ind",
+            "doi": "10.1016/S0002-9610(13)00336-X",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S300",
+            "pages": {
+               "first": "e5",
+               "last": "e17"
+            },
+            "pdf": {
+               "filename": "1-s2.0-S000296101300336X-main.pdf",
+               "getAccessLink": "/science/article/pii/S000296101300336X",
+               "downloadLink": "/science/article/pii/S000296101300336X/pdfft?md5=0aa1dc16dd7b26e9283a3b058e0c1976&pid=1-s2.0-S000296101300336X-main.pdf"
+            },
+            "pii": "S000296101300336X",
+            "publicationDate": "2013-06-30",
+            "publicationDateDisplay": "June 2013",
+            "sourceTitle": "The American Journal of Surgery",
+            "sortDate": "2013-06-01T00:00:00.000Z",
+            "title": "Subject Index",
+            "volumeIssue": "Volume 205, Issue 6",
+            "articleType": "OT",
+            "issn": "00029610",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/00029610",
+            "link": "/science/article/pii/S000296101300336X",
+            "articleTypeDisplayName": ""
+         },
+         {
+            "cid": 273483,
+            "contentType": "JL",
+            "documentSubType": "ind",
+            "doi": "10.1016/S0065-3101(14)00027-9",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S300",
+            "pages": {
+               "first": "357",
+               "last": "363"
+            },
+            "pdf": {
+               "filename": "1-s2.0-S0065310114000279-main.pdf",
+               "getAccessLink": "/science/article/pii/S0065310114000279",
+               "downloadLink": "/science/article/pii/S0065310114000279/pdfft?md5=48f4fc788b9df8dfb62ed8d4c7c86d41&pid=1-s2.0-S0065310114000279-main.pdf"
+            },
+            "pii": "S0065310114000279",
+            "publicationDate": "2014-08-31",
+            "publicationDateDisplay": "August 2014",
+            "sourceTitle": "Advances in Pediatrics",
+            "sortDate": "2014-08-01T00:00:00.000Z",
+            "title": "Index",
+            "volumeIssue": "Volume 61, Issue 1",
+            "articleType": "OT",
+            "issn": "00653101",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/00653101",
+            "link": "/science/article/pii/S0065310114000279",
+            "articleTypeDisplayName": ""
+         },
+         {
+            "abstTypes": [
+               "author"
+            ],
+            "authors": [
+               {
+                  "order": 0,
+                  "name": "Min-Chieh Shieh"
+               },
+               {
+                  "order": 1,
+                  "name": "Chi-Szu Liao"
+               },
+               {
+                  "order": 2,
+                  "name": "Ching-Chung Chiang"
+               },
+               {
+                  "order": 3,
+                  "name": "Chi-Wen Tu"
+               }
+            ],
+            "cid": 277338,
+            "contentType": "JL",
+            "documentSubType": "sco",
+            "doi": "10.1016/S1016-3190(09)60014-8",
+            "openAccess": true,
+            "openArchive": true,
+            "itemStage": "S300",
+            "pages": {
+               "first": "81",
+               "last": "84"
+            },
+            "pdf": {
+               "filename": "1-s2.0-S1016319009600148-main.pdf",
+               "getAccessLink": "/science/article/pii/S1016319009600148",
+               "downloadLink": "/science/article/pii/S1016319009600148/pdfft?md5=6bdb4c41df904376b789f772ab4f9ece&pid=1-s2.0-S1016319009600148-main.pdf"
+            },
+            "pii": "S1016319009600148",
+            "publicationDate": "2009-03-31",
+            "publicationDateDisplay": "March 2009",
+            "sourceTitle": "Tzu Chi Medical Journal",
+            "sortDate": "2009-03-01T00:00:00.000Z",
+            "title": "Solid Pseudopapillary Neoplasm of the Pancreas: Report of Two Cases and Review of the Literature",
+            "volumeIssue": "Volume 21, Issue 1",
+            "articleType": "SCO",
+            "issn": "10163190",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/10163190",
+            "link": "/science/article/pii/S1016319009600148",
+            "articleTypeDisplayName": "Short communication"
+         },
+         {
+            "abstTypes": [
+               "author"
+            ],
+            "authors": [
+               {
+                  "order": 0,
+                  "name": "Nicki Lynn Aubuchon-Endsley"
+               },
+               {
+                  "order": 1,
+                  "name": "Jessica Petranyi Riedstra"
+               }
+            ],
+            "cid": 314900,
+            "contentType": "RW",
+            "documentSubType": "chp",
+            "doi": "10.1016/B978-0-12-809324-5.23656-0",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S280",
+            "pages": {},
+            "pdf": {
+               "filename": "3-s2.0-B9780128093245236560-main.pdf",
+               "getAccessLink": "/science/article/pii/B9780128093245236560",
+               "downloadLink": "/science/article/pii/B9780128093245236560/pdfft?md5=b484b4214efbd3a79cb7f6f58ce14a0a&pid=3-s2.0-B9780128093245236560-main.pdf"
+            },
+            "pii": "B9780128093245236560",
+            "publicationDate": "2019-12-31",
+            "publicationDateDisplay": "2019",
+            "sourceTitle": "Reference Module in Neuroscience and Biobehavioral Psychology",
+            "sortDate": "2019-01-01T00:00:00.000Z",
+            "title": "Prenatal Care",
+            "articleType": "EN",
+            "issn": "",
+            "isbn": "9780128093245",
+            "sourceTitleUrl": "/science/referenceworks/9780128093245",
+            "link": "/science/article/pii/B9780128093245236560",
+            "articleTypeDisplayName": "Encyclopedia"
+         },
+         {
+            "abstTypes": [
+               "author"
+            ],
+            "authors": [
+               {
+                  "order": 0,
+                  "name": "Olivier Scatton"
+               },
+               {
+                  "order": 1,
+                  "name": "Franck Chiappini"
+               },
+               {
+                  "order": 2,
+                  "name": "Xu-Hui Liu"
+               },
+               {
+                  "order": 3,
+                  "name": "Philippe Riou"
+               },
+               {
+                  "order": 7,
+                  "name": "Antoinette Lemoine"
+               }
+            ],
+            "cid": 272608,
+            "contentType": "JL",
+            "documentSubType": "fla",
+            "doi": "10.1016/j.jss.2008.03.052",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S300",
+            "pages": {
+               "first": "183",
+               "last": "189"
+            },
+            "pdf": {
+               "filename": "1-s2.0-S0022480408002734-main.pdf",
+               "getAccessLink": "/science/article/pii/S0022480408002734",
+               "downloadLink": "/science/article/pii/S0022480408002734/pdfft?md5=233fed63f41ff3fcb864a6668fd91709&pid=1-s2.0-S0022480408002734-main.pdf"
+            },
+            "pii": "S0022480408002734",
+            "publicationDate": "2008-12-31",
+            "publicationDateDisplay": "December 2008",
+            "sourceTitle": "Journal of Surgical Research",
+            "sortDate": "2008-12-01T00:00:00.000Z",
+            "title": "Generation and Modulation of Hepatocellular Carcinoma Circulating Cells: A New Experimental Model",
+            "volumeIssue": "Volume 150, Issue 2",
+            "articleType": "FLA",
+            "issn": "00224804",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/00224804",
+            "link": "/science/article/pii/S0022480408002734",
+            "articleTypeDisplayName": "Research article"
+         },
+         {
+            "abstTypes": [
+               "teaser"
+            ],
+            "authors": [
+               {
+                  "order": 0,
+                  "name": "Sarah M. Lambert"
+               }
+            ],
+            "cid": 273323,
+            "contentType": "JL",
+            "documentSubType": "rev",
+            "doi": "10.1016/j.pcl.2012.05.014",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S300",
+            "pages": {
+               "first": "965",
+               "last": "976"
+            },
+            "pdf": {
+               "filename": "1-s2.0-S0031395512000879-main.pdf",
+               "getAccessLink": "/science/article/pii/S0031395512000879",
+               "downloadLink": "/science/article/pii/S0031395512000879/pdfft?md5=1dd2e47ed3bbbb38001db980fce56ea4&pid=1-s2.0-S0031395512000879-main.pdf"
+            },
+            "pii": "S0031395512000879",
+            "publicationDate": "2012-08-31",
+            "publicationDateDisplay": "August 2012",
+            "sourceTitle": "Pediatric Clinics of North America",
+            "sortDate": "2012-08-01T00:00:00.000Z",
+            "title": "Pediatric Urological Emergencies",
+            "volumeIssue": "Volume 59, Issue 4",
+            "articleType": "REV",
+            "issn": "00313955",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/00313955",
+            "link": "/science/article/pii/S0031395512000879",
+            "articleTypeDisplayName": "Review article"
+         },
+         {
+            "abstTypes": [
+               "author"
+            ],
+            "authors": [
+               {
+                  "order": 0,
+                  "name": "R. R. van Rijn"
+               },
+               {
+                  "order": 1,
+                  "name": "R. A. J. Nievelstein"
+               }
+            ],
+            "cid": 271187,
+            "contentType": "JL",
+            "documentSubType": "fla",
+            "doi": "10.1016/j.ejrad.2014.03.025",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S300",
+            "pages": {
+               "first": "1570",
+               "last": "1581"
+            },
+            "pdf": {
+               "filename": "1-s2.0-S0720048X14001636-main.pdf",
+               "getAccessLink": "/science/article/pii/S0720048X14001636",
+               "downloadLink": "/science/article/pii/S0720048X14001636/pdfft?md5=096bb0df64771def8a033c1c6b724f8f&pid=1-s2.0-S0720048X14001636-main.pdf"
+            },
+            "pii": "S0720048X14001636",
+            "publicationDate": "2014-09-30",
+            "publicationDateDisplay": "September 2014",
+            "sourceTitle": "European Journal of Radiology",
+            "sortDate": "2014-09-01T00:00:00.000Z",
+            "title": "Paediatric ultrasonography of the liver, hepatobiliary tract and pancreas",
+            "volumeIssue": "Volume 83, Issue 9",
+            "articleType": "FLA",
+            "issn": "0720048X",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/0720048X",
+            "link": "/science/article/pii/S0720048X14001636",
+            "articleTypeDisplayName": "Research article"
+         },
+         {
+            "authors": [
+               {
+                  "order": 0,
+                  "name": "Patricia M. Davidson"
+               }
+            ],
+            "cid": 272462,
+            "contentType": "JL",
+            "documentSubType": "abs",
+            "doi": "10.1016/0022-3468(90)90578-W",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S350",
+            "pages": {
+               "first": "565",
+               "last": "566"
+            },
+            "pdf": {
+               "filename": "1-s2.0-002234689090578W-main.pdf",
+               "getAccessLink": "/science/article/pii/002234689090578W",
+               "downloadLink": "/science/article/pii/002234689090578W/pdfft?md5=7088662db479447619291bbe75099c28&pid=1-s2.0-002234689090578W-main.pdf"
+            },
+            "pii": "002234689090578W",
+            "publicationDate": "1990-05-31",
+            "publicationDateDisplay": "May 1990",
+            "sourceTitle": "Journal of Pediatric Surgery",
+            "sortDate": "1990-05-01T00:00:00.000Z",
+            "title": "Lawn mower injuries in children : <ce:italic>B.R. Johnstone and C.S. Bennett</ce:italic>. Aust N Z J Surg 59:713\u2013718, (September), 1989",
+            "volumeIssue": "Volume 25, Issue 5",
+            "articleType": "ABS",
+            "issn": "00223468",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/00223468",
+            "link": "/science/article/pii/002234689090578W",
+            "articleTypeDisplayName": "Conference abstract"
+         },
+         {
+            "authors": [
+               {
+                  "order": 0,
+                  "name": "KC Edelin"
+               },
+               {
+                  "order": 1,
+                  "name": "L Gurganious"
+               },
+               {
+                  "order": 2,
+                  "name": "K Golar"
+               },
+               {
+                  "order": 3,
+                  "name": "D Oellerich"
+               },
+               {
+                  "order": 5,
+                  "name": "MA Hamid"
+               }
+            ],
+            "cid": 271250,
+            "contentType": "JL",
+            "documentSubType": "abs",
+            "doi": "10.1016/0020-7292(89)90748-0",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S350",
+            "pages": {
+               "first": "311",
+               "last": "312"
+            },
+            "pdf": {
+               "filename": "1-s2.0-0020729289907480-main.pdf",
+               "getAccessLink": "/science/article/pii/0020729289907480",
+               "downloadLink": "/science/article/pii/0020729289907480/pdfft?md5=39f973194b61daad161b50132178dc15&pid=1-s2.0-0020729289907480-main.pdf"
+            },
+            "pii": "0020729289907480",
+            "publicationDate": "1989-03-31",
+            "publicationDateDisplay": "March 1989",
+            "sourceTitle": "International Journal of Gynecology & Obstetrics",
+            "sortDate": "1989-03-01T00:00:00.000Z",
+            "title": "Methadone maintenance in pregnancy: Consequences to care and outcome",
+            "volumeIssue": "Volume 28, Issue 3",
+            "articleType": "ABS",
+            "issn": "00207292",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/00207292",
+            "link": "/science/article/pii/0020729289907480",
+            "articleTypeDisplayName": "Conference abstract"
+         },
+         {
+            "authors": [
+               {
+                  "order": 0,
+                  "name": "Richard K. Mathis"
+               },
+               {
+                  "order": 1,
+                  "name": "Joel M. Andres"
+               },
+               {
+                  "order": 2,
+                  "name": "W. Allan Walker"
+               }
+            ],
+            "cid": 272521,
+            "contentType": "JL",
+            "documentSubType": "fla",
+            "doi": "10.1016/S0022-3476(77)80553-2",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S350",
+            "pages": {
+               "first": "864",
+               "last": "880"
+            },
+            "pdf": {
+               "filename": "1-s2.0-S0022347677805532-main.pdf",
+               "getAccessLink": "/science/article/pii/S0022347677805532",
+               "downloadLink": "/science/article/pii/S0022347677805532/pdfft?md5=c801bb5b62d591990bec52c2816e1bcb&pid=1-s2.0-S0022347677805532-main.pdf"
+            },
+            "pii": "S0022347677805532",
+            "publicationDate": "1977-06-30",
+            "publicationDateDisplay": "June 1977",
+            "sourceTitle": "The Journal of Pediatrics",
+            "sortDate": "1977-06-01T00:00:00.000Z",
+            "title": "Liver disease in infants: Part II: Hepatic disease states",
+            "volumeIssue": "Volume 90, Issue 6",
+            "articleType": "FLA",
+            "issn": "00223476",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/00223476",
+            "link": "/science/article/pii/S0022347677805532",
+            "articleTypeDisplayName": "Research article"
+         },
+         {
+            "authors": [
+               {
+                  "order": 0,
+                  "name": "Benjamin P Harrison"
+               },
+               {
+                  "order": 1,
+                  "name": "Chad S Crystal"
+               }
+            ],
+            "cid": 273347,
+            "contentType": "JL",
+            "documentSubType": "fla",
+            "doi": "10.1016/S0733-8627(03)00047-6",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S300",
+            "pages": {
+               "first": "711",
+               "last": "735"
+            },
+            "pdf": {
+               "filename": "1-s2.0-S0733862703000476-main.pdf",
+               "getAccessLink": "/science/article/pii/S0733862703000476",
+               "downloadLink": "/science/article/pii/S0733862703000476/pdfft?md5=ea412c72734bdf439980a9aa08084999&pid=1-s2.0-S0733862703000476-main.pdf"
+            },
+            "pii": "S0733862703000476",
+            "publicationDate": "2003-08-31",
+            "publicationDateDisplay": "August 2003",
+            "sourceTitle": "Emergency Medicine Clinics of North America",
+            "sortDate": "2003-08-01T00:00:00.000Z",
+            "title": "Imaging modalities in obstetrics and gynecology",
+            "volumeIssue": "Volume 21, Issue 3",
+            "articleType": "FLA",
+            "issn": "07338627",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/07338627",
+            "link": "/science/article/pii/S0733862703000476",
+            "articleTypeDisplayName": "Research article"
+         },
+         {
+            "cid": 281818,
+            "contentType": "BK",
+            "documentSubType": "idx",
+            "doi": "10.1016/B978-0-323-02842-4.50137-6",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S300",
+            "pages": {
+               "first": "i",
+               "last": "lxviii"
+            },
+            "pdf": {
+               "filename": "3-s2.0-B9780323028424501376-main.pdf",
+               "getAccessLink": "/science/article/pii/B9780323028424501376",
+               "downloadLink": "/science/article/pii/B9780323028424501376/pdfft?md5=bc63cbc1495446a93bd1aa8c0706a124&pid=3-s2.0-B9780323028424501376-main.pdf"
+            },
+            "pii": "B9780323028424501376",
+            "publicationDate": "2006-12-31",
+            "publicationDateDisplay": "2006",
+            "sourceTitle": "Pediatric Surgery",
+            "sortDate": "2006-01-01T00:00:00.000Z",
+            "title": "Index",
+            "edition": "Sixth Edition",
+            "articleType": "OT",
+            "issn": "",
+            "isbn": "9780323028424",
+            "sourceTitleUrl": "/science/book/9780323028424",
+            "link": "/science/article/pii/B9780323028424501376",
+            "articleTypeDisplayName": ""
+         },
+         {
+            "cid": 280114,
+            "contentType": "BK",
+            "documentSubType": "idx",
+            "doi": "10.1016/B978-0-323-06397-5.00089-7",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S300",
+            "pages": {
+               "first": "595",
+               "last": "619"
+            },
+            "pdf": {
+               "filename": "3-s2.0-B9780323063975000897-main.pdf",
+               "getAccessLink": "/science/article/pii/B9780323063975000897",
+               "downloadLink": "/science/article/pii/B9780323063975000897/pdfft?md5=e54a0f54af07288cd56ac7a67b242fe4&pid=3-s2.0-B9780323063975000897-main.pdf"
+            },
+            "pii": "B9780323063975000897",
+            "publicationDate": "2010-12-31",
+            "publicationDateDisplay": "2010",
+            "sourceTitle": "GI/Liver Secrets",
+            "sortDate": "2010-01-01T00:00:00.000Z",
+            "title": "INDEX",
+            "edition": "Fourth Edition",
+            "articleType": "OT",
+            "issn": "",
+            "isbn": "9780323063975",
+            "sourceTitleUrl": "/science/book/9780323063975",
+            "link": "/science/article/pii/B9780323063975000897",
+            "articleTypeDisplayName": ""
+         },
+         {
+            "cid": 272462,
+            "contentType": "JL",
+            "documentSubType": "ind",
+            "doi": "10.1016/S0022-3468(87)80744-3",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S350",
+            "pages": {
+               "first": "1223",
+               "last": "1240"
+            },
+            "pdf": {
+               "filename": "1-s2.0-S0022346887807443-main.pdf",
+               "getAccessLink": "/science/article/pii/S0022346887807443",
+               "downloadLink": "/science/article/pii/S0022346887807443/pdfft?md5=2b20825d87aff6ab7eed517b0ff0ca3c&pid=1-s2.0-S0022346887807443-main.pdf"
+            },
+            "pii": "S0022346887807443",
+            "publicationDate": "1987-12-31",
+            "publicationDateDisplay": "December 1987",
+            "sourceTitle": "Journal of Pediatric Surgery",
+            "sortDate": "1987-12-01T00:00:00.000Z",
+            "title": "Subject index",
+            "volumeIssue": "Volume 22, Issue 12",
+            "articleType": "OT",
+            "issn": "00223468",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/00223468",
+            "link": "/science/article/pii/S0022346887807443",
+            "articleTypeDisplayName": ""
+         },
+         {
+            "cid": 313799,
+            "contentType": "JL",
+            "documentSubType": "fla",
+            "doi": "10.1080/16515320410032700",
+            "openAccess": true,
+            "openArchive": true,
+            "itemStage": "S300",
+            "pages": {
+               "first": "1",
+               "last": "64"
+            },
+            "pdf": {
+               "filename": "1-s2.0-S1365182X15308297-main.pdf",
+               "getAccessLink": "/science/article/pii/S1365182X15308297",
+               "downloadLink": "/science/article/pii/S1365182X15308297/pdfft?md5=8b6788bac3fe0d5fd39f4274db76d889&pid=1-s2.0-S1365182X15308297-main.pdf"
+            },
+            "pii": "S1365182X15308297",
+            "publicationDate": "2004-05-31",
+            "publicationDateDisplay": "May 2004",
+            "sourceTitle": "HPB",
+            "sortDate": "2004-05-01T00:00:00.000Z",
+            "title": "IHPBA World Congress abstracts \u2013 Free Papers and Videos",
+            "volumeIssue": "Volume 6, Supplement 1",
+            "articleType": "FLA",
+            "issn": "1365182X",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/1365182X",
+            "link": "/science/article/pii/S1365182X15308297",
+            "articleTypeDisplayName": "Research article"
+         },
+         {
+            "abstTypes": [
+               "author"
+            ],
+            "authors": [
+               {
+                  "order": 0,
+                  "name": "JEFFREY C. WEINREB"
+               },
+               {
+                  "order": 1,
+                  "name": "HELEN C. REDMAN"
+               }
+            ],
+            "cid": 305441,
+            "contentType": "BK",
+            "documentSubType": "chp",
+            "doi": "10.1016/B978-0-7216-2059-6.50012-7",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S300",
+            "pages": {
+               "first": "105",
+               "last": "135"
+            },
+            "pdf": {
+               "filename": "3-s2.0-B9780721620596500127-main.pdf",
+               "getAccessLink": "/science/article/pii/B9780721620596500127",
+               "downloadLink": "/science/article/pii/B9780721620596500127/pdfft?md5=de5125ecd4244125cac2b6005bb3ead6&pid=3-s2.0-B9780721620596500127-main.pdf"
+            },
+            "pii": "B9780721620596500127",
+            "publicationDate": "1987-12-31",
+            "publicationDateDisplay": "1987",
+            "sourceTitle": "Magnetic Resonance Imaging of the Body",
+            "sortDate": "1987-01-01T00:00:00.000Z",
+            "title": "CHAPTER 9: MRI OF THE LIVER AND SPLEEN",
+            "articleType": "CH",
+            "issn": "",
+            "isbn": "9780721620596",
+            "sourceTitleUrl": "/science/book/9780721620596",
+            "link": "/science/article/pii/B9780721620596500127",
+            "articleTypeDisplayName": "Book chapter"
+         },
+         {
+            "cid": 272462,
+            "contentType": "JL",
+            "documentSubType": "mis",
+            "doi": "10.1016/S0022-3468(97)90548-0",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S350",
+            "pages": {
+               "first": "1824",
+               "last": "1868"
+            },
+            "pdf": {
+               "filename": "1-s2.0-S0022346897905480-main.pdf",
+               "getAccessLink": "/science/article/pii/S0022346897905480",
+               "downloadLink": "/science/article/pii/S0022346897905480/pdfft?md5=e10fdcff1d4c883976c49590aaca342e&pid=1-s2.0-S0022346897905480-main.pdf"
+            },
+            "pii": "S0022346897905480",
+            "publicationDate": "1997-12-31",
+            "publicationDateDisplay": "December 1997",
+            "sourceTitle": "Journal of Pediatric Surgery",
+            "sortDate": "1997-12-01T00:00:00.000Z",
+            "title": "Subject index",
+            "volumeIssue": "Volume 32, Issue 12",
+            "articleType": "OT",
+            "issn": "00223468",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/00223468",
+            "link": "/science/article/pii/S0022346897905480",
+            "articleTypeDisplayName": ""
+         },
+         {
+            "cid": 313799,
+            "contentType": "JL",
+            "documentSubType": "fla",
+            "doi": "10.1080/16515320410032719",
+            "openAccess": true,
+            "openArchive": true,
+            "itemStage": "S300",
+            "pages": {
+               "first": "65",
+               "last": "127"
+            },
+            "pdf": {
+               "filename": "1-s2.0-S1365182X15308303-main.pdf",
+               "getAccessLink": "/science/article/pii/S1365182X15308303",
+               "downloadLink": "/science/article/pii/S1365182X15308303/pdfft?md5=08c5da335d910ea1f5d84970f47e46d8&pid=1-s2.0-S1365182X15308303-main.pdf"
+            },
+            "pii": "S1365182X15308303",
+            "publicationDate": "2004-05-31",
+            "publicationDateDisplay": "May 2004",
+            "sourceTitle": "HPB",
+            "sortDate": "2004-05-01T00:00:00.000Z",
+            "title": "IHPBA World Congress abstracts \u2013 Posters",
+            "volumeIssue": "Volume 6, Supplement 1",
+            "articleType": "FLA",
+            "issn": "1365182X",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/1365182X",
+            "link": "/science/article/pii/S1365182X15308303",
+            "articleTypeDisplayName": "Research article"
+         },
+         {
+            "cid": 271204,
+            "contentType": "JL",
+            "documentSubType": "mis",
+            "doi": "10.1016/0301-5629(85)90168-1",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S350",
+            "pages": {
+               "first": "541",
+               "last": "550"
+            },
+            "pdf": {
+               "filename": "1-s2.0-0301562985901681-main.pdf",
+               "getAccessLink": "/science/article/pii/0301562985901681",
+               "downloadLink": "/science/article/pii/0301562985901681/pdfft?md5=bad8993861e6b5526396650ee321169e&pid=1-s2.0-0301562985901681-main.pdf"
+            },
+            "pii": "0301562985901681",
+            "publicationDate": "1985-06-30",
+            "publicationDateDisplay": "May\u2013June 1985",
+            "sourceTitle": "Ultrasound in Medicine & Biology",
+            "sortDate": "1985-05-01T00:00:00.000Z",
+            "title": "Bibliography of biomedical ultrasound",
+            "volumeIssue": "Volume 11, Issue 3",
+            "articleType": "OT",
+            "issn": "03015629",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/03015629",
+            "link": "/science/article/pii/0301562985901681",
+            "articleTypeDisplayName": ""
+         },
+         {
+            "authors": [
+               {
+                  "order": 0,
+                  "name": "Kenneth W. Lindsay"
+               },
+               {
+                  "order": 1,
+                  "name": "Ian Bone"
+               },
+               {
+                  "order": 2,
+                  "name": "Geraint Fuller"
+               }
+            ],
+            "cid": 313577,
+            "contentType": "BK",
+            "documentSubType": "chp",
+            "doi": "10.1016/B978-0-443-06957-4.50008-2",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S300",
+            "pages": {
+               "first": "217",
+               "last": "388"
+            },
+            "pdf": {
+               "filename": "3-s2.0-B9780443069574500082-main.pdf",
+               "getAccessLink": "/science/article/pii/B9780443069574500082",
+               "downloadLink": "/science/article/pii/B9780443069574500082/pdfft?md5=d1fb13134500e83ff31f13588df48475&pid=3-s2.0-B9780443069574500082-main.pdf"
+            },
+            "pii": "B9780443069574500082",
+            "publicationDate": "2010-12-31",
+            "publicationDateDisplay": "2010",
+            "sourceTitle": "Neurology and Neurosurgery Illustrated",
+            "sortDate": "2010-01-01T00:00:00.000Z",
+            "title": "SECTION IV: LOCALISED NEUROLOGICAL DISEASE AND ITS MANAGEMENT A. INTRACRANIAL",
+            "edition": "Fifth Edition",
+            "articleType": "CH",
+            "issn": "",
+            "isbn": "9780443069574",
+            "sourceTitleUrl": "/science/book/9780443069574",
+            "link": "/science/article/pii/B9780443069574500082",
+            "articleTypeDisplayName": "Book chapter"
+         },
+         {
+            "cid": 282323,
+            "contentType": "BK",
+            "documentSubType": "idx",
+            "doi": "10.1016/B978-0-323-07255-7.00141-0",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S300",
+            "pages": {
+               "first": "i-1",
+               "last": "i-48"
+            },
+            "pdf": {
+               "filename": "3-s2.0-B9780323072557001410-main.pdf",
+               "getAccessLink": "/science/article/pii/B9780323072557001410",
+               "downloadLink": "/science/article/pii/B9780323072557001410/pdfft?md5=3c0fd40704f5dc281c68b6622fdb538b&pid=3-s2.0-B9780323072557001410-main.pdf"
+            },
+            "pii": "B9780323072557001410",
+            "publicationDate": "2012-12-31",
+            "publicationDateDisplay": "2012",
+            "sourceTitle": "Pediatric Surgery",
+            "sortDate": "2012-01-01T00:00:00.000Z",
+            "title": "Index",
+            "edition": "Seventh Edition",
+            "articleType": "OT",
+            "issn": "",
+            "isbn": "9780323072557",
+            "sourceTitleUrl": "/science/book/9780323072557",
+            "link": "/science/article/pii/B9780323072557001410",
+            "articleTypeDisplayName": ""
+         },
+         {
+            "abstTypes": [
+               "author"
+            ],
+            "authors": [
+               {
+                  "order": 0,
+                  "name": "C. J. Godec"
+               },
+               {
+                  "order": 1,
+                  "name": "J. Esho"
+               },
+               {
+                  "order": 2,
+                  "name": "A. S. Cass"
+               }
+            ],
+            "cid": 273470,
+            "contentType": "JL",
+            "documentSubType": "fla",
+            "doi": "10.1016/S0022-5347(17)55606-2",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S350",
+            "pages": {
+               "first": "678",
+               "last": "682"
+            },
+            "pdf": {
+               "filename": "1-s2.0-S0022534717556062-main.pdf",
+               "getAccessLink": "/science/article/pii/S0022534717556062",
+               "downloadLink": "/science/article/pii/S0022534717556062/pdfft?md5=3f922fa058bcfa85855a65495111b2c0&pid=1-s2.0-S0022534717556062-main.pdf"
+            },
+            "pii": "S0022534717556062",
+            "publicationDate": "1980-11-30",
+            "publicationDateDisplay": "November 1980",
+            "sourceTitle": "The Journal of Urology",
+            "sortDate": "1980-11-01T00:00:00.000Z",
+            "title": "Correlation Among Cystometry, Urethral Pressure Profilometry and Pelvic Floor Electromyography in the Evaluation of Female Patients with Voiding Dysfunction Symptoms",
+            "volumeIssue": "Volume 124, Issue 5",
+            "articleType": "FLA",
+            "issn": "00225347",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/00225347",
+            "link": "/science/article/pii/S0022534717556062",
+            "articleTypeDisplayName": "Research article"
+         },
+         {
+            "abstTypes": [
+               "author"
+            ],
+            "authors": [
+               {
+                  "order": 0,
+                  "name": "F. J. Khuri"
+               },
+               {
+                  "order": 1,
+                  "name": "D. J. Alton"
+               },
+               {
+                  "order": 2,
+                  "name": "B. E. Hardy"
+               },
+               {
+                  "order": 3,
+                  "name": "G. T. Cook"
+               },
+               {
+                  "order": 4,
+                  "name": "B. M. Churchill"
+               }
+            ],
+            "cid": 273470,
+            "contentType": "JL",
+            "documentSubType": "fla",
+            "doi": "10.1016/S0022-5347(17)55609-8",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S350",
+            "pages": {
+               "first": "684",
+               "last": "687"
+            },
+            "pdf": {
+               "filename": "1-s2.0-S0022534717556098-main.pdf",
+               "getAccessLink": "/science/article/pii/S0022534717556098",
+               "downloadLink": "/science/article/pii/S0022534717556098/pdfft?md5=c9f91c12077081f124a5f84b641a05cb&pid=1-s2.0-S0022534717556098-main.pdf"
+            },
+            "pii": "S0022534717556098",
+            "publicationDate": "1980-11-30",
+            "publicationDateDisplay": "November 1980",
+            "sourceTitle": "The Journal of Urology",
+            "sortDate": "1980-11-01T00:00:00.000Z",
+            "title": "Adrenal Hemorrhage in Neonates: Report of 5 Cases and Review of the Literature",
+            "volumeIssue": "Volume 124, Issue 5",
+            "articleType": "FLA",
+            "issn": "00225347",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/00225347",
+            "link": "/science/article/pii/S0022534717556098",
+            "articleTypeDisplayName": "Research article"
+         },
+         {
+            "cid": 272873,
+            "contentType": "JL",
+            "documentSubType": "mis",
+            "doi": "10.1016/S0196-0644(03)01105-3",
+            "openAccess": false,
+            "openArchive": false,
+            "itemStage": "S300",
+            "pages": {
+               "first": "857",
+               "last": "888"
+            },
+            "pdf": {
+               "filename": "1-s2.0-S0196064403011053-main.pdf",
+               "getAccessLink": "/science/article/pii/S0196064403011053",
+               "downloadLink": "/science/article/pii/S0196064403011053/pdfft?md5=25abaa2abebca3930b45fc5640dbdf16&pid=1-s2.0-S0196064403011053-main.pdf"
+            },
+            "pii": "S0196064403011053",
+            "publicationDate": "2003-12-31",
+            "publicationDateDisplay": "December 2003",
+            "sourceTitle": "Annals of Emergency Medicine",
+            "sortDate": "2003-12-01T00:00:00.000Z",
+            "title": "Index to volume 42, July\u2013December 2003",
+            "volumeIssue": "Volume 42, Issue 6",
+            "articleType": "OT",
+            "issn": "01960644",
+            "isbn": "",
+            "sourceTitleUrl": "/science/journal/01960644",
+            "link": "/science/article/pii/S0196064403011053",
+            "articleTypeDisplayName": ""
+         }
+      ],
+      "searchDetails": {
+         "terminatedEarly": false
+      },
+      "facets": {
+         "years": [
+            {
+               "key": "2019",
+               "value": 2
+            },
+            {
+               "key": "2014",
+               "value": 2
+            },
+            {
+               "key": "2013",
+               "value": 1
+            },
+            {
+               "key": "2012",
+               "value": 3
+            },
+            {
+               "key": "2010",
+               "value": 2
+            },
+            {
+               "key": "2009",
+               "value": 1
+            },
+            {
+               "key": "2008",
+               "value": 2
+            },
+            {
+               "key": "2006",
+               "value": 1
+            },
+            {
+               "key": "2004",
+               "value": 3
+            },
+            {
+               "key": "2003",
+               "value": 2
+            },
+            {
+               "key": "2000",
+               "value": 2
+            },
+            {
+               "key": "1997",
+               "value": 1
+            },
+            {
+               "key": "1993",
+               "value": 1
+            },
+            {
+               "key": "1992",
+               "value": 1
+            },
+            {
+               "key": "1991",
+               "value": 1
+            },
+            {
+               "key": "1990",
+               "value": 1
+            },
+            {
+               "key": "1989",
+               "value": 3
+            },
+            {
+               "key": "1988",
+               "value": 2
+            },
+            {
+               "key": "1987",
+               "value": 2
+            },
+            {
+               "key": "1985",
+               "value": 1
+            },
+            {
+               "key": "1980",
+               "value": 2
+            },
+            {
+               "key": "1977",
+               "value": 1
+            },
+            {
+               "key": "1973",
+               "value": 1
+            }
+         ],
+         "articleTypes": [
+            {
+               "key": "REV",
+               "value": 1,
+               "text": "Review articles"
+            },
+            {
+               "key": "FLA",
+               "value": 8,
+               "text": "Research articles"
+            },
+            {
+               "key": "EN",
+               "value": 2,
+               "text": "Encyclopedia"
+            },
+            {
+               "key": "CH",
+               "value": 2,
+               "text": "Book chapters"
+            },
+            {
+               "key": "ABS",
+               "value": 4,
+               "text": "Conference abstracts"
+            },
+            {
+               "key": "SCO",
+               "value": 2,
+               "text": "Short communications"
+            },
+            {
+               "key": "OT",
+               "value": 19,
+               "text": "Other"
+            }
+         ],
+         "publicationTitles": [
+            {
+               "key": "271204",
+               "value": 5,
+               "text": "Ultrasound in Medicine & Biology"
+            },
+            {
+               "key": "272360",
+               "value": 3,
+               "text": "American Journal of Obstetrics and Gynecology"
+            },
+            {
+               "key": "272462",
+               "value": 3,
+               "text": "Journal of Pediatric Surgery"
+            },
+            {
+               "key": "313799",
+               "value": 3,
+               "text": "HPB"
+            },
+            {
+               "key": "273440",
+               "value": 2,
+               "text": "Gastroenterology"
+            },
+            {
+               "key": "273470",
+               "value": 2,
+               "text": "The Journal of Urology"
+            },
+            {
+               "key": "271187",
+               "value": 1,
+               "text": "European Journal of Radiology"
+            },
+            {
+               "key": "271250",
+               "value": 1,
+               "text": "International Journal of Gynecology & Obstetrics"
+            },
+            {
+               "key": "271910",
+               "value": 1,
+               "text": "The American Journal of Surgery"
+            },
+            {
+               "key": "272521",
+               "value": 1,
+               "text": "The Journal of Pediatrics"
+            }
+         ],
+         "contentTypes": [],
+         "volumes": [],
+         "issues": [],
+         "accessTypes": [
+            {
+               "key": "openaccess",
+               "value": 5,
+               "text": "Open access"
+            },
+            {
+               "key": "openarchive",
+               "value": 5,
+               "text": "Open archive"
+            }
+         ]
+      },
+      "selectedFilters": {},
+      "journalAndBookSuggestions": [],
+      "resultsFound": 38
+   },
+   "entitlements": {
+      "error": null,
+      "entitlementsByPii": {
+         "S2211425412000192": true,
+         "S000296101300336X": true,
+         "S0065310114000279": true,
+         "S1016319009600148": true,
+         "B9780128093245236560": false,
+         "S0022480408002734": false,
+         "S0031395512000879": false,
+         "S0720048X14001636": false,
+         "002234689090578W": false,
+         "0020729289907480": false,
+         "S0022347677805532": false,
+         "S0733862703000476": false,
+         "B9780323028424501376": true,
+         "B9780323063975000897": true,
+         "S0022346887807443": true,
+         "S1365182X15308297": true,
+         "B9780721620596500127": false,
+         "S0022346897905480": false,
+         "S1365182X15308303": true,
+         "0301562985901681": false,
+         "B9780443069574500082": false,
+         "B9780323072557001410": true,
+         "S0022534717556062": false,
+         "S0022534717556098": false,
+         "S0196064403011053": false
+      }
+   },
+   "feedback": {
+      "open": false,
+      "sending": false
+   },
+   "selectedArticles": {
+      "selected": []
+   },
+   "abstracts": {},
+   "auth": {
+      "authIdentity": {
+         "session": {
+            "ssoKey": "d6adb4575af97641c74907670a2eb9b585c2gxrqa|$|0128015157511AEFA766BBB1C183221A73728373EB91AD9D76143BE350B0709DE91BB0FFDAC31762B5C6B723C1401643B1A949E89A7F39333FBA44D1BD4E4F2EB0469A67597464825D387A21AFA2E514",
+            "sdSessionId": "d6adb4575af97641c74907670a2eb9b585c2gxrqa",
+            "usageInfo": "(12975512,U|291352,D|228598,A|3,P|2,PL)(SDFE,CON|d6adb4575af97641c74907670a2eb9b585c2gxrqa,SSO|ANON_GUEST,ACCESS_TYPE)",
+            "extraInfo": {
+               "accessType": "GUEST",
+               "csasAssocType": "GUEST",
+               "customer": false,
+               "userAnonymity": "ANON_GUEST"
+            },
+            "ssoUrls": [
+               "//acw.evise.com/SSOCore/update?acw=d6adb4575af97641c74907670a2eb9b585c2gxrqa%7C%24%7C0128015157511AEFA766BBB1C183221A73728373EB91AD9D76143BE350B0709DE91BB0FFDAC31762B5C6B723C1401643B1A949E89A7F39333FBA44D1BD4E4F2EB0469A67597464825D387A21AFA2E514&utt=9f23-8e4faf560714a9a8677105bc3f543b37bc2-isLf",
+               "//acw.sciencedirect.com/SSOCore/update?acw=d6adb4575af97641c74907670a2eb9b585c2gxrqa%7C%24%7C0128015157511AEFA766BBB1C183221A73728373EB91AD9D76143BE350B0709DE91BB0FFDAC31762B5C6B723C1401643B1A949E89A7F39333FBA44D1BD4E4F2EB0469A67597464825D387A21AFA2E514&utt=9f23-8e4faf560714a9a8677105bc3f543b37bc2-isLf",
+               "//acw.elsevier.com/SSOCore/update?acw=d6adb4575af97641c74907670a2eb9b585c2gxrqa%7C%24%7C0128015157511AEFA766BBB1C183221A73728373EB91AD9D76143BE350B0709DE91BB0FFDAC31762B5C6B723C1401643B1A949E89A7F39333FBA44D1BD4E4F2EB0469A67597464825D387A21AFA2E514&utt=9f23-8e4faf560714a9a8677105bc3f543b37bc2-isLf"
+            ],
+            "miamiSessionId": "9579161e-0667-4725-ab0b-ec7ac46e3a41"
+         },
+         "hasMultipleOrganizations": false,
+         "organization": {
+            "department": "ScienceDirect Guests",
+            "departmentId": "291352",
+            "account": "ScienceDirect Guests",
+            "accountNumber": "C000228598",
+            "accountId": "228598"
+         },
+         "user": {
+            "webUserId": "12975512",
+            "type": "NORMAL",
+            "upc": "C99",
+            "settings": {
+               "canActivatePersonalization": true,
+               "canViewPurchaseHistory": true,
+               "canAccessRemotely": false,
+               "forceAbstractView": false,
+               "blockFreeAbstracts": false,
+               "canBypassConfirmScreen": true,
+               "requireCostCode": false,
+               "creditCardPurchaseAllowed": true,
+               "preventTransactionalAccess": false,
+               "preventDocumentDelivery": true,
+               "blockFullTextForAnonymousAccess": false,
+               "crawlerAvailable": false,
+               "allowAnonTransaction": false,
+               "disableWholeIssueDownload": false,
+               "allowRestrictedHtml": false,
+               "blockGateway": false
+            }
+         },
+         "accessType": "GUEST",
+         "utt": "9f23-8e4faf560714a9a8677105bc3f543b37bc2-isLf",
+         "cookies": [
+            "EUID=ca02ce68-c54e-4b17-8a6f-50bb1af6989c;Version=1;Domain=.sciencedirect.com;Path=/;Expires=Tue, 21 Feb 2040 04:37:59 GMT",
+            "sd_session_id=d6adb4575af97641c74907670a2eb9b585c2gxrqa;Version=1;Domain=.sciencedirect.com;Path=/;HttpOnly",
+            "acw=d6adb4575af97641c74907670a2eb9b585c2gxrqa%7C%24%7C0128015157511AEFA766BBB1C183221A73728373EB91AD9D76143BE350B0709DE91BB0FFDAC31762B5C6B723C1401643B1A949E89A7F39333FBA44D1BD4E4F2EB0469A67597464825D387A21AFA2E514;Version=1;Domain=.sciencedirect.com;Path=/",
+            "MIAMISESSION=9579161e-0667-4725-ab0b-ec7ac46e3a41:3759712679;Version=1;Domain=.sciencedirect.com;Path=/;HttpOnly"
+         ],
+         "isFallbackUser": false
+      },
+      "searchExperience": {
+         "maxBooleans": 8,
+         "level": "U2FsdGVkX1/D4cMKaKlrAloiVf11CEvOnWRgJR2SIQc="
+      },
+      "ip": "114.250.159.229"
+   },
+   "ab": {
+      "userVariations": {}
+   },
+   "preview": {
+      "selections": {}
+   },
+   "facets": {},
+   "searchAlert": {
+      "open": false,
+      "saving": false,
+      "saved": false,
+      "error": null
+   },
+   "registration": {
+      "showModal": true
+   },
+   "token": {
+      "ddmToken": ""
+   }
+}

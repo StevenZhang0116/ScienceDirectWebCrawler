@@ -1,0 +1,263 @@
+keyword1,keyword2
+Abdominal injury,alpha-fetoprotein
+Abdominal injuries,4-hydroxy-phenylpyruvate dioxygenase (HPD)
+Abdominal trauma,"5 nucleotidase,"
+Abdominal trauma,alpha-glutathioneS-transferase 
+Blunt trauma,Alpha fetoprotein
+Blunt bowel injury,(AFP)
+Blunt splenic injuries,Arginase-1
+Blunt Abdominal Trauma,Arginase 1 
+Blood loss,(ARG1) 
+Chest trauma,argininosuccinate synthetase 
+Chest injury,(ASS)
+Coagulopathy of Trauma,Abbreviated Injury Scale
+Disseminated intravascular coagulation,Albumin
+Hemorrhage ,Amylase
+Hemorrhagic trauma,ALT: alanine aminotransferase
+Hemorrhagic,ALP: alkaline phosphatase
+Hemorrhagic shock,AST: aspartate aminotransferase
+Hepatic injury,APACHE II
+Hollow viscus injury,Area under the receiver operating characteristic curve
+Injury severity,Arterial pressure
+Intra-abdominal injury,Arterial partial pressure of carbon dioxide
+Intraabdominal injuries,Arterial partial pressure of oxygen 
+Intestinal failure,AUROCs
+Intestinal injury,AUC
+Intestinal trauma,Active T lymphocytes 
+Kidney failure,(ATL)
+Kidney Injury,Amylase
+Kidney trauma,Amyloid A
+ Liver failure,Arterial Ph
+Liver injury,Bilirubin 
+Liver traumatic injuries,Biochemical
+Major trauma,Biochemical marker
+Mesenteric injury,Biochemical panel
+"Musculoskeletal trauma,",Biomarkers
+Muscular trauma,Biomarker panel
+Multiple trauma,Biochemical parameters
+Multi-trauma,Blood urine nitrogen
+(multi)trauma,Blood pressure
+Multiple injuries,BUN 
+Multiple organ failure,BNP
+Multiple organ dysfunction,B lymphocytes
+Multiorgan dysfunction syndrome,(CD3)
+Multi-organ failure,(CD4)
+Organ failure ,(CD8)
+Organ injury,"Complete blood counts,"
+Pancreatic trauma,C3 complement
+Pancreatic injury,Complement factor B
+Pelvic Injury,Computed tomogram
+Pelvic trauma,C5a
+Pelvic fracture,Chip 
+Physical trauma,CK-MB
+Poly-trauma,Clinical factors
+Polytrauma,Clinical variable 
+(poly)trauma,Creatinine
+Postinjury coagulopathy,Creatine kinase
+Posttrauma,C-reactive protein 
+Renal failure,CRP
+Renal trauma,Coagulation tests
+Renal injury,Complement
+Severe bleeding,Computed tomography  
+Severity of Trauma,Computed tomographic scanning
+Severe trauma,Creatine kinase muscle and brain
+Small bowel injury,CTnI
+Splenic injury,CT scan
+Splenic trauma,Cystatin C
+Trauma ,Cystatin-C
+Traumatic Injury ,CXCL10 
+Trauma severity,CXCR3
+Traumatic organ injury,Cadherin-5
+Trauma-related injuries,Calcium 
+Traumatic splenic injury,Caspase cleaved cytokeratin 18
+Traumatically injured spleen.,(CcK18)
+Traumatic pelvic injury,CDH5
+Traumatic kidney injury,"Ceruloplasmin, "
+Traumatic renal injury,Clinical parameters
+Traumatic intestinal injury,Collagen IV
+Traumatic liver injury ,Cytokeratin 18
+Traumatic hemorrhagic shock,D-Dimer 
+Traumatic Coagulopathy,Diagnosis
+Traumatic blood loss,Diagnostic
+Trauma Score,Diagnostic modelling
+,Estimated glomerular filtration rate
+,Estrogen sulfotransferase
+,EGFR
+,(EST-1)
+,FABPs
+,FABP 
+,Fatty Acid Binding Protein
+,Fatty acid binding protein 1
+,FDP
+,Fibrin degradation products
+,Fibrin/fibrinogen degradation products
+,Fibrinogen
+,Fibtem
+,Full blood cell count
+,F- Protein
+,FABP1
+,Glucose
+,Glutathione S-transferases (GST)
+,"Gamma glutamyl transferase, "
+,"Glasgow Coma Scale,"
+,Glutamate dehydrogenase
+,GLDH
+,GST_
+,GSTA
+,Glutathione S-transferase alpha
+,Hemoglobin
+,Hematocrite
+,hs-CRP
+,hsCRP
+,Hyaluronic Acid
+,High Mobility Group Box-1 
+,HMGB1
+,Howell_Jolly bodies
+,Human leucocyte antigen
+,Heart rate
+,Helper T cells 
+,(HLA)-DR
+,HPPD
+,I-FABP
+,IL-6
+,IL-8
+,IL-10
+,IL-18
+,Imaging
+,Independent predictors   
+,Injury severity score
+,Intestinal-FABP
+,ISS
+,Immunoglobulins 
+,IgA
+,IgM 
+,IgG 
+,IP-10
+,Jolly bodies
+,Kidney injury molecule-1
+,(KIM-1)
+,K18
+,LECT2
+,Leucocyte cell-derived chemotaxin-2
+,Lymphocytes
+,Laboratory parameters
+,Laboratory tests
+,Lactate
+,Lactate dehydrogenase 
+,(LDH)
+,L-FABP
+,Lipocalin
+,Liver enzyme tests
+,Liver-FABP
+,Lipase
+,Marker
+,Molecular biomarker
+,Molecular markers
+,Myoglobin
+,Myeloperoxidase
+,malate dehydrogenase 
+,(MCSFR)
+,Macrophage colony stimulating factor receptor
+,(MDH)
+,microRNA-122 
+,miR-122
+,miRNAs
+,miR-216a 
+,miR-216b 
+,miR-217
+,MicroRNAs
+,Mean arterial BP 
+,(MODS) 
+,Multiple organ dysfunction score
+,Neutrophil Gelatinase-Associated Lipocalin
+,Neutrophils
+,N-acetyl-_-D-glucosaminidase
+,Nuclear fragments in circulating erythrocytes
+,NGAL
+,N-GAL
+,NISS
+,(NO) 
+,Nitric oxide
+,Novel markers
+,N-terminal pro-B-type natriuretic peptide 
+,(NT-proBNP)
+,Odd ratio
+,OPN
+,Osteopontin
+,Polymorphonuclear elastase
+,PON1
+,Paraoxonase 1 normalized to prothrombin protein
+,Platelet count
+,Polymorpho-nuclear neutrophil elastase
+,(PMN)
+,(PaO2)
+,Platelets
+,Potassium
+,Parameters 
+,Paraxonase 1 
+,PON1
+,Purine nucleoside phosphorylase 
+,PNP
+,Pathogenic
+,Pathologic
+,Phosphate
+,Physiologic 
+,Platelets and pH-value
+,Point of care 
+,Procalcitonin
+,(PCT)
+,Prothrombin time
+,Properdin
+,Protein C
+,(PaCO2) 
+,(PAF) 
+,Platelet-activating factor
+,Plasminogen activator inhibitor
+,(PAI)
+,(PaO2) 
+,(PaCO2) 
+,Platelet-activating factor
+,(PAF)
+,(PAI) 
+,Plasminogen activator inhibitor
+,PaO2 
+,Revised Trauma score
+,Risk factors
+,(ROC)
+,Receiver operating characteristic curves
+,Respiration rate
+,Red cell count
+,SDH
+,Sorbitol dehydrogenase
+,Sodium 
+,Suppressor T-cells
+,(SCr)
+,Screening methods
+,Sequential organ failure assessment
+,SOFA
+,Trauma scoring systems
+,Test 
+,Testing
+,(TFF3)
+,Trefoil Factor 3
+,TRISS
+,Troponin
+,Temperature
+,Trypsinogen-2 
+,Trypsin-2-a1antitrypsin complex 
+,Trypsin-2-AAT
+,Total and segmented leukocytes
+,Total T lymphocytes 
+,(TTL)
+,Tuftsin
+,The post-traumatic plasma levels of soluble tumor necrosis factor receptors p55 and p75
+,Urea
+,Ultrasound
+,White blood cell count 
+,(WBC)
+,Valproic acid
+,(VPA)
+,Vascular endothelial growth factor 
+,(VEGF)
+,Venous thromboembolism
+, (VTE)

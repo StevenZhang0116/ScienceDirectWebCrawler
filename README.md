@@ -8,3 +8,5 @@ The download_pdf section is used to download all pdfs relevant to this keyword c
 The database_create section is used to extract important information related to each article, including related keywords, DOI, authors, published date etc., and store them into the MySQL database. 
 
 Notice that the codes in each folder are more or less similar to each other. That is for readers' convenience to treat them as seperate projects for future reference. 
+
+I also post the interim presentation of data extraction team to better my program's role, functionalities, and effects in the whole project. 

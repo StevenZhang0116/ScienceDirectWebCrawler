@@ -1,0 +1,9 @@
+patient
+human
+children
+people
+male
+female
+adult
+trauma patients
+homo sapiens

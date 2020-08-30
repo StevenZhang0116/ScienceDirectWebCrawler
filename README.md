@@ -10,4 +10,4 @@ The analyze_pdf section is used to transform the pdf file into editable and sear
 
 Notice that the codes in each folder are more or less similar to each other. That is for readers' convenience to treat them as separate projects for future reference. 
 
-I also post the interim presentation of the data extraction team to better my program's role, functionalities, and effects for the entire project. The final well-organized program can be found at [here](https://github.com/StevenZhang0116/crawler_release). 
+I also post the interim presentation of the data extraction team to better my role and contributions to the tramua project. The final well-organized program can be found at [here](https://github.com/StevenZhang0116/crawler_release). 

@@ -10,4 +10,4 @@ The analyze_pdf section is used to transform the pdf file into an editable and s
 
 Notice that the codes in each folder are more or less similar to each other. That is for readers' convenience to treat them as separate projects for future reference. 
 
-I also post the interim presentation of the data extraction team to better my role and contributions to the trauma project. Technically, web scraping is a foundational and "trivial" work, but it could serve for grand academic research as well if being appropriately implemented. The final well-organized program can be found at [here](https://github.com/StevenZhang0116/crawler_release). 
+I also post the interim presentation of the data extraction team to better introduce my role and contributions to the trauma project. The final well-organized program can be found at [here](https://github.com/StevenZhang0116/crawler_release). 
